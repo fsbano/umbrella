@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,a as n}from"./index-8d40718b.js";const _={},s={class:"page-not-found"},c=n("p",null,"Page Not Found",-1),a=[c];function d(r,u){return o(),t("div",s,a)}const i=e(_,[["render",d]]);export{i as default};
